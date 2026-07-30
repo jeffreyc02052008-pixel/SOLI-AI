@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+nodejs/
+node-v24.18.0-win-x64.zip
+web/node_modules/
+web/dist/
